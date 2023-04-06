@@ -61,5 +61,12 @@
   }
 
   .conteudo {
-    border-top: 0.4px solid white;
+    display: flex;
+    justify-content: center;
+    border-top: 0.4px solid #100D24;
+    align-items: baseline;
+  }
+  .conteudo-principal-item {
+    display: flex; 
+    order: center;
   }
